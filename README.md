@@ -1,4 +1,4 @@
-megadb
+NewBie
 ======
 
-A mega database server based on leveldb
+A newbie database server based on leveldb
