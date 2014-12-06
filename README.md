@@ -1,4 +1,4 @@
-NewBie
+Newbie
 ======
 
-A newbie database server based on leveldb
+A database server based on leveldb
